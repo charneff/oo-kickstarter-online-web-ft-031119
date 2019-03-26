@@ -11,4 +11,9 @@ class Project
     @backers << backer 
   end
   
+  def back_project
+    
+    
+  end
+  
 end
