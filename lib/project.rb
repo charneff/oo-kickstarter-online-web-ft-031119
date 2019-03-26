@@ -13,8 +13,7 @@ class Project
   
   def back_project
     self.backed_projects << project 
-    project.
-    
+    project.back_project << self
   end
   
 end
